@@ -13,9 +13,9 @@ If you have just joined the server and your stats have not loaded, You have 2 Mi
 Currently looking for a Staff! Visit the forum if you are interested.",
 
 "<t underline='true' color='#00FFFF'>Contact</t><br />
-TS3: tgmasters.ts3dns.com<br />
-Website: www.tgmasters.net<br />
-Welcome to The Gaming Masters<br />
+TS3: serverboxs1.ts.nfoservers.com<br />
+Website: TBA<br />
+Welcome to Cyber Nation Gaming<br />
 <br />
 Please visit the forums to fill out bug reports or post suggestions and to keep up to date on the rules.
 <br />
@@ -30,4 +30,4 @@ _t = _t + [(parseText _x)];
 } foreach _text;
 _text = _t;
 
-"The Gaming Masters!" hintC _text;
+"Cyber NAtion Gaming!" hintC _text;

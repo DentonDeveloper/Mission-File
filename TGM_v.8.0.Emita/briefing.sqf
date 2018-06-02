@@ -1,6 +1,6 @@
 ////////////////////////////////////
 ////			         //
-//      Copyright © TCG         //
+//      Copyright ï¿½ TCG         //
 
 //www.tcgaming.enjin.com       //
 ////////////////////////////////
@@ -39,17 +39,17 @@ br/>
 
 player createDiaryRecord ["bugs", 
 [
-"TGM Island life", 
+"Cyber Nation Gaming", 
 "
 <br/>
-The TGM Community Website may be found at<br/>
+The CNG Community Website may be found at<br/>
 
-www.tgmasters.net<br/>
+TBA<br/>
 <br/>
 <br/>
 Registering gives you access to our discussion forums<br/>
 
-tgmasters.net
+TBA
 <br/>
 <br/>
 Please report any bugs with the mission at<br/>
@@ -58,7 +58,7 @@ Our teamspeak
 <br/>
 <br/>
 Join your fellow players on Teamspeak 3 at<br/>
-tgmasters.ts3dns.com<br/>
+serverboxs1.ts.nfoservers.com<br/>
 "
 ]
 ];
